@@ -1,6 +1,5 @@
 # Geojester
-
-**TODO: Add description**
+A Elixir library for helping with geotechnics.
 
 ## Installation
 
