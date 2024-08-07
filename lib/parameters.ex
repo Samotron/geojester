@@ -1,4 +1,4 @@
-defmodule Parameters do
+defmodule Geojester.Parameters do
   @moduledoc """
   Functions to help with calculating parameter
   """

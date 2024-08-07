@@ -1,4 +1,4 @@
-defmodule Slopes do
+defmodule Geojester.Slopes do
   def infinite_slope(slope_height, slope_angle, unit_weight, cohesion, friction_angle) do
     angled = Utilities.checkRad(slope_angle)
     phid = Utilities.checkRad(friction_angle)

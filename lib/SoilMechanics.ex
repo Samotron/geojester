@@ -1,4 +1,4 @@
-defmodule SoilMechanics do
+defmodule Geojester.SoilMechanics do
   def k_active(phi) do
     phid = Utilities.checkRad(phi)
     {1 - :math.sin(phid)} / {1 + :math.sin(phid)}

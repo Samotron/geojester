@@ -1,4 +1,4 @@
-defmodule EC7Combs do
+defmodule Geojester.Design.EC7Combs do
   @type t :: :Da1C1 | :Da1c2 | :EQU | :None
 
   @values [:Da1C1, :Da1c2, :EQU, :None]
@@ -6,7 +6,7 @@ defmodule EC7Combs do
   def values, do: @values
 end
 
-defmodule EC7PartialFactors do
+defmodule Geojester.Design.EC7PartialFactors do
   @moduledoc """
   Generates partial factors from different combinations
   """

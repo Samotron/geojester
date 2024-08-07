@@ -1,4 +1,4 @@
-defmodule Utilities do
+defmodule Geojester.Utilities do
   @moduledoc """
   Functions to help with common tasks
   """
